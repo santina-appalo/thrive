@@ -121,5 +121,3 @@ THE SOFTWARE.
 
 Thanks to every student who believed in their dreams and dared to hustle. Thrive is dedicated to you.
 
----
-
