@@ -123,5 +123,3 @@ Thanks to every student who believed in their dreams and dared to hustle. Thrive
 
 ---
 
-> Ready to hustle? Click below 👇  
-[![Get Started](./assets/images/blog-2.jpeg)](#)
