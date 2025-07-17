@@ -83,7 +83,6 @@ We’re a team of **five passionate women** from Sathyabama University. Our miss
 ## 📩 Contact Us
 
 - 📧 Email: thrive5@gmail.com / thrives5@gmail.com  
-- 📞 Phone: +91 9876543213 / +91 9123456780  
 - 📍 Location: Sathyabama University, Chennai, Tamil Nadu
 
 ---
